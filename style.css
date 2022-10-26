@@ -66,9 +66,9 @@
   height: 200px;
   width: 200px;
 }
-
 .user-login {
-  text-align: center;
+  font-size: 2em;
+  margin-bottom: 10px;
 }
 .user-box {
   display: flex;
