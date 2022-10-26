@@ -69,6 +69,7 @@
 .user-login {
   font-size: 2em;
   margin-bottom: 10px;
+  font-weight: bold;
 }
 .user-box {
   display: flex;
