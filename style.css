@@ -60,6 +60,28 @@
   background-color: #fff;
 }
 
+.hide {
+  display: none;
+}
+.user-avatar {
+  height: 200px;
+  width: 200px;
+}
+.user-login {
+  font-size: 2em;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.user-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 25px;
+  border-bottom: solid 2px #222;
+}
+
 /* navigation header */
 nav a {
   text-decoration: none;
